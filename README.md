@@ -10,6 +10,7 @@ I build projects across web development, programming, databases, and AI. I enjoy
 - 🛠️ **Development:** Backend APIs, frontend interfaces, databases, and containerized apps
 - 📫 **Email:** [adityaraj150107@gmail.com](mailto:adityaraj150107@gmail.com)
 - 🌐 **GitHub:** [@adityaraj150107-star](https://github.com/adityaraj150107-star)
+- 💼 **Portfolio Website:** [View My Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
 
 ---
 
@@ -77,7 +78,8 @@ An interactive educational web presentation about LAN concepts, networking devic
 
 - **GitHub:** [@adityaraj150107-star](https://github.com/adityaraj150107-star)
 - **Email:** [adityaraj150107@gmail.com](mailto:adityaraj150107@gmail.com)
-- **Portfolio repository:** [Aditya_Rajput_Portfolio](https://github.com/adityaraj150107-star/Aditya_Rajput_Portfolio)
+- **Live Portfolio:** [adityaraj150107-star.github.io/Aditya_Raj_Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
+- **Portfolio repository:** [Aditya_Raj_Portfolio](https://github.com/adityaraj150107-star/Aditya_Raj_Portfolio)
 
 ---
 
