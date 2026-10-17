@@ -1,6 +1,8 @@
 <div align="center">
 
-# Aditya Raj
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:312e81,100:06b6d4&height=180&section=header&text=ADITYA%20RAJ&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=16&animation=fadeIn" alt="Animated neon blue and purple banner" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=55&lines=Hi%2C+I'm+Aditya+Raj+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Practical+Projects+%E2%9C%A8)](https://git.io/typing-svg)
 
 ### Full-Stack Developer · AI/ML Enthusiast · BCA Student
 
@@ -88,5 +90,15 @@ A responsive portfolio presenting my introduction, technical skills, projects, a
 <div align="center">
 
 *Thanks for visiting my profile — feel free to explore my projects!*
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![GitHub contribution snake](https://raw.githubusercontent.com/adityaraj150107-star/adityaraj150107-star/output/github-snake-dark.svg)
 
 </div>
