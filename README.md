@@ -1,95 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b1026,45:312e81,100:06b6d4&height=180&section=header&text=ADITYA%20RAJ&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=60&descSize=16&animation=fadeIn" alt="Animated neon blue and purple banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080b1a,45:312e81,100:0891b2&height=200&section=header&text=ADITYA%20RAJ&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=FULL-STACK%20DEVELOPER%20%7C%20AI%2FML%20ENTHUSIAST&descAlignY=58&descSize=16&animation=fadeIn" alt="Aditya Raj — dark neon blue and purple developer banner" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&height=55&lines=Hi%2C+I'm+Aditya+Raj+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%92%BB;AI%2FML+Enthusiast+%F0%9F%A4%96;Building+Practical+Projects+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=67E8F9&center=true&vCenter=true&width=760&height=55&lines=Building+Practical+Web+Applications;Exploring+AI%2FML+%26+Deep+Learning;Python+%7C+Flask+%7C+JavaScript;Learning+by+Building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 ### Full-Stack Developer · AI/ML Enthusiast · BCA Student
 
-Building practical web applications and exploring AI-powered solutions.
+I build practical applications and explore how software and AI can solve real-world problems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FFB703?style=for-the-badge&logo=googlechrome&logoColor=111111)](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/adityaraj150107-star)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaraj150107@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityarajput._.05/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=08111f)](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaraj150107-star)
+[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaraj150107@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-Connect-A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityarajput._.05/)
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-- 🎓 Bachelor of Computer Applications (BCA) student.
-- 💻 Interested in frontend and backend development.
-- 🤖 Exploring Artificial Intelligence, Machine Learning, Deep Learning, and NLP.
-- 🧩 Enjoy building practical projects and improving my problem-solving skills.
-- 🌱 Currently strengthening my development, database, and deployment skills.
+- 🎓 BCA student focused on software development and applied AI.
+- 💻 Interested in both frontend experiences and backend logic.
+- 🤖 Exploring Machine Learning, Deep Learning, and Natural Language Processing.
+- 🧠 Learning by building projects, solving problems, and improving code quality.
+- 🎯 Goal: create useful, well-documented applications that are easy to run and understand.
 
-## 🛠️ Technical Skills
+## 🧰 Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**Languages**
 
-### Web & Backend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-333333?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9)
+![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=67E8F9)
+![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=67E8F9)
+![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=67E8F9)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FDE047)
 
-### Databases, AI & Tools
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-00A67D?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-6A5ACD?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF8C00?style=for-the-badge)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**Web Development & Databases**
+
+![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=FB923C)
+![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=60A5FA)
+![Flask](https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=E2E8F0)
+![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=for-the-badge&logo=streamlit&logoColor=FB7185)
+![SQL](https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
+![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=67E8F9)
+
+**AI, Data & Tools**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-0B1220?style=for-the-badge&logo=pytorch&logoColor=F472B6)
+![NLP](https://img.shields.io/badge/NLP-0B1220?style=for-the-badge&logo=googlegemini&logoColor=67E8F9)
+![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=60A5FA)
+![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FB923C)
+![VS Code](https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎯 [Smart Placement Predictions](https://github.com/adityaraj150107-star/SmartPlacementPredictions)
-An AI-based placement prediction project. Explore the repository for its current implementation, setup, and features.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Focus:** Python · AI/ML · Web application development
+### 🎯 [SmartPlacementPredictions](https://github.com/adityaraj150107-star/SmartPlacementPredictions)
 
-### 🏫 [Smart College Management System (SCMS-AI)](https://github.com/adityaraj150107-star/SCMS-AI)
-A student project focused on digital college-management workflows. Visit the repository to review its current code and documentation.
+AI-based student placement prediction project.
 
-**Focus:** Application development · Data management
+**Focus areas:** Python · AI/ML · Web application development
 
-### 🌐 [Personal Portfolio Website](https://github.com/adityaraj150107-star/Aditya_Raj_Portfolio)
-A responsive portfolio presenting my introduction, technical skills, projects, and contact links.
+[View repository →](https://github.com/adityaraj150107-star/SmartPlacementPredictions)
 
-**Focus:** HTML · CSS · JavaScript · Responsive design
+</td>
+<td width="50%" valign="top">
+
+### 🏫 [SCMS-AI](https://github.com/adityaraj150107-star/SCMS-AI)
+
+A student project focused on digital school/college management workflows.
+
+**Focus areas:** Application development · Data management
+
+[View repository →](https://github.com/adityaraj150107-star/SCMS-AI)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🌐 [Aditya Raj Portfolio](https://github.com/adityaraj150107-star/Aditya_Raj_Portfolio)
+
+A responsive personal website for my skills, projects, and contact information.
+
+**Focus areas:** HTML · CSS · JavaScript · Responsive design
+
+[Visit live portfolio →](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🎯 Current Goals
-
-- Build and document useful full-stack and AI/ML projects.
-- Write clean, maintainable code and clear project READMEs.
-- Improve deployment, testing, and collaboration skills.
-- Keep learning by building and sharing practical work.
-
-## 🤝 Connect
-
-- 📧 Email: [adityaraj150107@gmail.com](mailto:adityaraj150107@gmail.com)
-- 📸 Instagram: [@adityarajput._.05](https://www.instagram.com/adityarajput._.05/)
-- 💼 Portfolio: [adityaraj150107-star.github.io/Aditya_Raj_Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
-- 🐙 GitHub: [@adityaraj150107-star](https://github.com/adityaraj150107-star)
-
----
+## 📊 GitHub Snapshot
 
 <div align="center">
 
-*Thanks for visiting my profile — feel free to explore my projects!*
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Most used programming languages" />
+
+</div>
+
+---
+
+## 🎯 What I'm Working Toward
+
+- Building useful full-stack and AI/ML projects.
+- Improving testing, deployment, and database skills.
+- Writing clearer documentation and maintainable code.
+- Learning through consistent practice and collaboration.
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
+[![Email](https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaraj150107@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-7C3AED?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityarajput._.05/)
+[![GitHub](https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaraj150107-star)
 
 </div>
 
@@ -100,5 +135,11 @@ A responsive portfolio presenting my introduction, technical skills, projects, a
 <div align="center">
 
 ![GitHub contribution snake](https://raw.githubusercontent.com/adityaraj150107-star/adityaraj150107-star/output/github-snake-dark.svg)
+
+</div>
+
+<div align="center">
+
+*Thanks for visiting — explore a project, share feedback, and let's build something useful.*
 
 </div>
