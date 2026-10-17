@@ -2,12 +2,12 @@
 
 ### Backend & Frontend Developer | AI/ML Enthusiast | BCA Student
 
-I build projects across web development, programming, databases, and AI. I enjoy turning ideas into practical applications and exploring how intelligent systems can solve real-world problems.
+I build web applications and AI-powered projects using Python, Java, C/C++, web technologies, databases, and machine learning. I enjoy turning ideas into practical applications and continuously improving my development skills.
 
 - 🎓 **Education:** Bachelor of Computer Applications (BCA)
 - 💻 **Focus:** Full-stack development, AI/ML, and data-driven applications
 - 🧠 **AI interests:** Machine Learning, Deep Learning, and Natural Language Processing (NLP)
-- 🛠️ **Development:** Backend APIs, frontend interfaces, databases, and containerized apps
+- 🛠️ **Development:** Frontend interfaces, backend APIs, databases, and application development
 - 📫 **Email:** [adityaraj150107@gmail.com](mailto:adityaraj150107@gmail.com)
 - 🌐 **GitHub:** [@adityaraj150107-star](https://github.com/adityaraj150107-star)
 - 💼 **Portfolio Website:** [View My Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
@@ -52,16 +52,11 @@ I build projects across web development, programming, databases, and AI. I enjoy
 
 ## 🚀 Featured Projects
 
-### 🎯 Smart Placement Prediction
-An academic AI/ML project exploring how student-related data can be used to estimate placement outcomes.
+### 🏫 [Smart College Management System (SCMS-AI)](https://github.com/adityaraj150107-star/SCMS-AI)
+An AI-focused college management project designed to bring college-related workflows and information into one application.
 
-### 🏫 Smart College Management System
-A student project focused on organizing student and college information digitally.
-
-### 🌐 LAN Networking Web Presentation
-An interactive educational web presentation about LAN concepts, networking devices, and communication.
-
-> Add links to each project repository or live demo once the corresponding project is published. Keep project descriptions aligned with the features and code you have actually built.
+### 🎯 [Smart Placement Predictions](https://github.com/adityaraj150107-star/SmartPlacementPredictions)
+An AI-based placement prediction project with a Flask interface, focused on helping explore student placement outcomes.
 
 ---
 
@@ -78,7 +73,8 @@ An interactive educational web presentation about LAN concepts, networking devic
 
 - **GitHub:** [@adityaraj150107-star](https://github.com/adityaraj150107-star)
 - **Email:** [adityaraj150107@gmail.com](mailto:adityaraj150107@gmail.com)
-- **Live Portfolio:** [adityaraj150107-star.github.io/Aditya_Raj_Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
+- **Instagram:** [@adityarajput._.05](https://www.instagram.com/adityarajput._.05/)
+- **Live Portfolio:** [View Portfolio](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
 - **Portfolio repository:** [Aditya_Raj_Portfolio](https://github.com/adityaraj150107-star/Aditya_Raj_Portfolio)
 
 ---
