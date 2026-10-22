@@ -116,6 +116,7 @@ A responsive personal website for my skills, projects, and contact information.
 <img width="70%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub contribution streak" />
 
 </div>
+
 ---
 
 ## 🎯 What I'm Working Toward
