@@ -105,19 +105,19 @@ A responsive personal website for my skills, projects, and contact information.
 
 ### 💜 GitHub Statistics
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub Statistics"/>
+<img width="75%" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub Statistics"/>
 
 <br/>
 
 ### 🧩 Top Languages by Repo
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=donut&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Top Languages by Repository"/>
+<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=donut&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Top Languages by Repository"/>
 
 <br/>
 
 ### 🔥 GitHub Streak
 
-<img width="100%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Contribution Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Contribution Streak"/>
 
 </div>
 
