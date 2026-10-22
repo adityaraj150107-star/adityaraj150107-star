@@ -130,6 +130,7 @@ A responsive personal website for my skills, projects, and contact information.
 </table>
 
 </div>
+
 ---
 
 ## 🎯 What I'm Working Toward
