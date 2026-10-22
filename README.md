@@ -99,8 +99,6 @@ A responsive personal website for my skills, projects, and contact information.
 
 ---
 
-## 📊 GitHub Snapshot
-
 ## 📊 GitHub Dashboard
 
 <div align="center">
