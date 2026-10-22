@@ -103,20 +103,33 @@ A responsive personal website for my skills, projects, and contact information.
 
 <div align="center">
 
-<img width="32%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj150107-star&bg_color=080b1a&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true" alt="Contribution Graph"/>
+<table>
+<tr>
+<td width="33%" align="center" valign="top">
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa" alt="GitHub Stats"/>
+<h3>💜 GitHub Statistics</h3>
 
-<img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" width="100%" alt="GitHub Statistics"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>🧩 Top Languages by Repo</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=donut&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" width="100%" alt="Top Languages by Repository"/>
+
+</td>
+<td width="33%" align="center" valign="top">
+
+<h3>🔥 GitHub Streak</h3>
+
+<img src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" width="100%" alt="GitHub Contribution Streak"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
-<div align="center">
-
-<img width="60%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="Contribution Streak"/>
-
-</div>
-
 ---
 
 ## 🎯 What I'm Working Toward
