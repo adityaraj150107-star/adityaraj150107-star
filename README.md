@@ -99,23 +99,32 @@ A responsive personal website for my skills, projects, and contact information.
 
 ---
 
-## 📊 GitHub Dashboard
+📈 Contribution Graph
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj150107-star&bg_color=080b1a&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Raj's%20Contribution%20Graph" alt="GitHub contribution graph" />
-
-<br/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=donut&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Most used programming languages" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub contribution streak" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=adityaraj150107-star&bg_color=080b1a&color=67e8f9&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=Aditya%20Raj%27s%20Contribution%20Graph" alt="Aditya Raj GitHub Contribution Graph" />
 
 </div>
+
+📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub Statistics" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Most Used Languages" />
+
+</div>
+
+🔥 GitHub Contribution Streak
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Contribution Streak" />
+
+</div>
+
 
 ---
 
