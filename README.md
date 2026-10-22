@@ -103,24 +103,33 @@ A responsive personal website for my skills, projects, and contact information.
 
 <div align="center">
 
+<table>
+<tr>
+<td width="33.33%" align="center" valign="top">
+
 ### 💜 GitHub Statistics
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" alt="GitHub Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=adityaraj150107-star&show_icons=true&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1&icon_color=a78bfa&rank_icon=github" width="100%" alt="GitHub Statistics"/>
 
-<br/>
+</td>
+<td width="33.33%" align="center" valign="top">
 
-### 🧩 Top Languages by Repo
+### 🧩 Top Languages
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=donut&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" alt="Top Languages by Repository"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityaraj150107-star&layout=compact&hide_border=true&bg_color=080b1a&title_color=67e8f9&text_color=cbd5e1" width="100%" alt="Top Languages by Repository"/>
 
-<br/>
+</td>
+<td width="33.33%" align="center" valign="top">
 
 ### 🔥 GitHub Streak
 
-<img width="50%" src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" alt="GitHub Contribution Streak"/>
+<img src="https://streak-stats.demolab.com?user=adityaraj150107-star&theme=tokyonight-duo&hide_border=true&background=080b1a&ring=8b5cf6&fire=67e8f9&currStreakLabel=67e8f9" width="100%" alt="GitHub Contribution Streak"/>
+
+</td>
+</tr>
+</table>
 
 </div>
-
 ---
 
 ## 🎯 What I'm Working Toward
