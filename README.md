@@ -9,8 +9,6 @@
 I build practical applications and explore how software and AI can solve real-world problems.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-67E8F9?style=for-the-badge&logo=googlechrome&logoColor=08111f)](https://adityaraj150107-star.github.io/Aditya_Raj_Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adityaraj150107-star)
-[![Email](https://img.shields.io/badge/Email-Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityaraj150107@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-Connect-A78BFA?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityarajput._.05/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-rajput-105768409)
 
