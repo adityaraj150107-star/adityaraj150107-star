@@ -26,33 +26,9 @@ I build practical applications and explore how software and AI can solve real-wo
 - 🧠 Learning by building projects, solving problems, and improving code quality.
 - 🎯 Goal: create useful, well-documented applications that are easy to run and understand.
 
-## 🧰 Tech Stack
+## 💻 Tech Stack:
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=67E8F9)
-![Java](https://img.shields.io/badge/Java-0B1220?style=for-the-badge&logo=openjdk&logoColor=67E8F9)
-![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=67E8F9)
-![C++](https://img.shields.io/badge/C%2B%2B-0B1220?style=for-the-badge&logo=cplusplus&logoColor=67E8F9)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=FDE047)
-
-**Web Development & Databases**
-
-![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=FB923C)
-![CSS3](https://img.shields.io/badge/CSS3-0B1220?style=for-the-badge&logo=css3&logoColor=60A5FA)
-![Flask](https://img.shields.io/badge/Flask-0B1220?style=for-the-badge&logo=flask&logoColor=E2E8F0)
-![Streamlit](https://img.shields.io/badge/Streamlit-0B1220?style=for-the-badge&logo=streamlit&logoColor=FB7185)
-![SQL](https://img.shields.io/badge/SQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=67E8F9)
-![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=67E8F9)
-
-**AI, Data & Tools**
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-0B1220?style=for-the-badge&logo=scikitlearn&logoColor=A78BFA)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-0B1220?style=for-the-badge&logo=pytorch&logoColor=F472B6)
-![NLP](https://img.shields.io/badge/NLP-0B1220?style=for-the-badge&logo=googlegemini&logoColor=67E8F9)
-![Docker](https://img.shields.io/badge/Docker-0B1220?style=for-the-badge&logo=docker&logoColor=60A5FA)
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=FB923C)
-![VS Code](https://img.shields.io/badge/VS_Code-0B1220?style=for-the-badge&logo=visualstudiocode&logoColor=60A5FA)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%2300748F.svg?style=for-the-badge&logo=databricks&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-4B0082?style=for-the-badge&logo=googlegemini&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
